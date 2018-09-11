@@ -142,6 +142,10 @@ body {
         font-size: 3.5vw;
     }
 
+    .projects .row:last-child {
+        margin-bottom: 3vw;
+    }
+
     .row ul {
         margin-left: 4vw;
         margin-top: -2.5vw;
