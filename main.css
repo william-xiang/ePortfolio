@@ -53,7 +53,7 @@ body {
     width: 100%;
     position: absolute;
     bottom: 0;
-    font-family: 'Segoe UI', Courier, monospace;
+    font-family: var(--main-font-family);
     background-color: var(--main-txt-color);
     text-align: center;
 }
