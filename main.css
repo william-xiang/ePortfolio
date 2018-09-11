@@ -16,6 +16,7 @@ html {
 
 body {
     background-color: var(--main-bg-color);
+    margin-bottom: 6vw; /* Margin bottom by footer height */
 }
 
 .navbar {
@@ -28,7 +29,7 @@ body {
 }
 
 .container-fluid {
-    margin-top: 6vw;
+    margin-top: 5vw;
     color: var(--main-txt-color);
     font-family: var(--main-font-family);
 }
@@ -51,7 +52,7 @@ body {
 .footer {
     height: 3vw;
     width: 100%;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     font-family: var(--main-font-family);
     background-color: var(--main-txt-color);
