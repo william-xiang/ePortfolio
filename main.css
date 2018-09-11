@@ -185,7 +185,7 @@ body {
     }
 
     .projects .row:last-child {
-        padding-bottom: 15vw;
+        padding-bottom: 6vw;
     }
 
     .row ul {
@@ -194,13 +194,12 @@ body {
     }
 
     .project_name {
-        font-size: 3.5vw;
+        font-size: 3vw;
         font-family: var(--main-font-family);
-        color: red;
     }
     
     .project_content {
-        font-size: 2vw;
+        font-size: 1.5vw;
     }
 
     .footer {
