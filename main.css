@@ -93,17 +93,17 @@ body {
     }
 
     .row ul {
-        margin-left: 2.5vw;
-        margin-top: -1.5vw;
+        margin-left: 3vw;
+        margin-top: -2.5vw;
     }
     
     .project_name {
-        font-size: 3vw;
+        font-size: 5vw;
         font-family: var(--main-font-family);
     }
     
     .project_content {
-        font-size: 2vw;
+        font-size: 3.5vw;
     }
 
 
