@@ -92,6 +92,21 @@ body {
         font-size: 3.5vw;
     }
 
+    .row ul {
+        margin-left: 2.5vw;
+        margin-top: -1.5vw;
+    }
+    
+    .project_name {
+        font-size: 3vw;
+        font-family: var(--main-font-family);
+    }
+    
+    .project_content {
+        font-size: 2vw;
+    }
+
+
     .footer {
         height: 8vw;
     }
