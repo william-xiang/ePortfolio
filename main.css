@@ -184,6 +184,10 @@ body {
         font-size: 2.5vw;
     }
 
+    .projects .row:last-child {
+        padding-bottom: 8vw;
+    }
+
     .row ul {
         margin-left: 2vw;
         margin-top: -1.5vw;
