@@ -1,0 +1,67 @@
+:root {
+    --main-bg-color: #222222;
+    --main-txt-color: white; 
+    --main-banner-color: rgb(241,99,71);
+    --main-font-family: 'Raleway', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+* {
+	margin:0px;
+	padding:0px;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background-color: var(--main-bg-color);
+}
+
+.navbar {
+    background-color: var(--main-banner-color);
+    font-family: var(--main-font-family);
+}
+
+.navbar-brand {
+    font-weight: 500;
+}
+
+.container-fluid {
+    margin-top: 6vw;
+    color: var(--main-txt-color);
+    font-family: var(--main-font-family);
+}
+
+.greeting {
+    font-size: 2.5vw;
+}
+
+.content {
+    font-size: 1.5vw;
+}
+
+/* css for resume */
+.resume {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.footer {
+    height: 3vw;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    font-family: 'Segoe UI', Courier, monospace;
+    background-color: var(--main-txt-color);
+    text-align: center;
+}
+
+.footer p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
