@@ -51,6 +51,10 @@ body {
     margin-top: 4vw;
 }
 
+.row a {
+    text-decoration: none;
+}
+
 .row ul {
     margin-left: 1.5vw;
     margin-top: -0.5vw;
