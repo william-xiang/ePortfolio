@@ -42,11 +42,20 @@ body {
     font-size: 1.5vw;
 }
 
-/* css for resume */
-.resume {
-    height: 100%;
-    width: 100%;
-    overflow: hidden;
+/* css for projects */
+
+.row ul {
+    margin-left: 1.5vw;
+    margin-top: -0.5vw;
+}
+
+.project_name {
+    font-size: 2.5vw;
+    font-family: var(--main-font-family);
+}
+
+.project_content {
+    font-size: 1.3vw;
 }
 
 .footer {
