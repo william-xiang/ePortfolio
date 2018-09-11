@@ -91,3 +91,27 @@ body {
         font-size: 2vw;
     }
 }
+
+@media screen and (max-width: 768px) and (orientation: landscape) {
+    .container-fluid {
+        margin-top: 5vw;
+        color: var(--main-txt-color);
+        font-family: var(--main-font-family);
+    }
+
+    .greeting {
+        font-size: 6vw;
+    }
+    
+    .content {
+        font-size: 4.5vw;
+    }
+
+    .footer {
+        height: 8vw;
+    }
+
+    .footer p {
+        font-size: 3vw;
+    }
+}
