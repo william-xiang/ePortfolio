@@ -109,7 +109,7 @@ body {
     }
     
     .project_name {
-        font-size: 3vw;
+        font-size: 5vw;
         font-family: var(--main-font-family);
     }
     
@@ -148,12 +148,12 @@ body {
     }
     
     .project_name {
-        font-size: 5vw;
+        font-size: 3.5vw;
         font-family: var(--main-font-family);
     }
     
     .project_content {
-        font-size: 3.5vw;
+        font-size: 2.5vw;
     }
 
 
