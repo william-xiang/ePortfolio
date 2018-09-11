@@ -68,6 +68,7 @@ body {
 .time {
     font-size: 1.5vw;
     font-family: var(--main-font-family);
+    display: block;
 }
 
 .project_content {
