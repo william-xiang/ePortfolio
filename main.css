@@ -65,3 +65,17 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+@media screen and (max-width: 768px) {
+    .greeting {
+        font-size: 5vw;
+    }
+    
+    .content {
+        font-size: 3vw;
+    }
+
+    .footer {
+        height: 8vw;
+    }
+}
