@@ -43,6 +43,9 @@ body {
 }
 
 /* css for projects */
+.projects .container-fluid {
+    margin-top: 3vw;
+}
 
 .row ul {
     margin-left: 1.5vw;
