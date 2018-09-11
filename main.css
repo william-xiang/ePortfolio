@@ -48,7 +48,7 @@ body {
 }
 
 .row:not(:first-child) {
-    margin-top: 4vw;
+    margin-top: 3vw;
 }
 
 .row a {
@@ -62,6 +62,11 @@ body {
 
 .project_name {
     font-size: 2vw;
+    font-family: var(--main-font-family);
+}
+
+.time {
+    font-size: 1.5vw;
     font-family: var(--main-font-family);
 }
 
