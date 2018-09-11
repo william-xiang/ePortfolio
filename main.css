@@ -196,6 +196,7 @@ body {
     .project_name {
         font-size: 3.5vw;
         font-family: var(--main-font-family);
+        color: red;
     }
     
     .project_content {
