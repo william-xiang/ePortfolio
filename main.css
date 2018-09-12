@@ -122,7 +122,8 @@ body {
     .time {
         font-size: 4vw;
         font-family: var(--main-font-family);
-        display: inline;
+        display: inline-block;
+        margin-left: 1vw;
     }
     
     .project_content {
@@ -171,7 +172,8 @@ body {
     .time {
         font-size: 3vw;
         font-family: var(--main-font-family);
-        display: inline;
+        display: inline-block;
+        margin-left: 1vw;
     }
     
     .project_content {
@@ -219,7 +221,8 @@ body {
     .time {
         font-size: 3vw;
         font-family: var(--main-font-family);
-        display: inline;
+        display: inline-block;
+        margin-left: 1vw;
     }
     
     .project_content {
