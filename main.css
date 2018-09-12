@@ -302,11 +302,20 @@ body {
 
 @media screen and (max-width: 1024px) and (min-width: 992px) and (orientation: landscape) {
     .container-fluid {
-        border: solid yellow 1px;
         margin-top: 3vw;
         color: var(--main-txt-color);
         font-family: var(--main-font-family);
     }
+
+    .col-lg-3 {
+        width: 15%;
+    }
+
+    .col-lg-6 {
+        width: 70%;
+    }
+
+
 
     .greeting {
         font-size: 4vw;
