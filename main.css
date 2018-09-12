@@ -206,6 +206,16 @@ body {
         font-size: 2vw;
     }
 
+    .comma {
+        display: inline;
+    }
+    
+    .employer {
+        font-size: 3vw;
+        font-family: var(--main-font-family);
+        display: inline;
+    }
+
     .footer {
         height: 6vw;
     }
@@ -253,6 +263,16 @@ body {
     
     .project_content {
         font-size: 2vw;
+    }
+
+    .comma {
+        display: inline;
+    }
+    
+    .employer {
+        font-size: 3vw;
+        font-family: var(--main-font-family);
+        display: inline;
     }
 
     .footer {
