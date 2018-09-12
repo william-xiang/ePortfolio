@@ -12,11 +12,13 @@
 
 html {
     height: 100%;
+    width: 100%;
 }
 
 body {
+    width: 100%;
+    padding-bottom: 4vw;
     background-color: var(--main-bg-color);
-    margin-bottom: 6vw; /* Margin bottom by footer height */
 }
 
 .navbar {
@@ -239,6 +241,7 @@ body {
 
 @media screen and (max-width: 992px) and (orientation: landscape) {
     .container-fluid {
+        position: relative;
         margin-top: 3vw;
         color: var(--main-txt-color);
         font-family: var(--main-font-family);
@@ -302,33 +305,17 @@ body {
 
 @media screen and (max-width: 1024px) and (min-width: 992px) and (orientation: landscape) {
     .container-fluid {
-        position: relative;
-        width: 100%;
         margin-top: 3vw;
         color: var(--main-txt-color);
         font-family: var(--main-font-family);
     }
 
-    .col-lg-3 {
-        width: 15%;
-    }
-
-    .col-lg-6 {
-        width: 70%;
-    }
-
-
-
     .greeting {
-        font-size: 4vw;
+        font-size: 3vw;
     }
     
     .content {
-        font-size: 2.5vw;
-    }
-
-    .projects .row:last-child {
-        padding-bottom: 6vw;
+        font-size: 2vw;
     }
 
     .row ul {
