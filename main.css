@@ -127,8 +127,11 @@ body {
     }
 
     .row ul {
-        margin-left: 4vw;
         margin-top: -2.5vw;
+    }
+
+    .row ul li {
+        margin-left: 2vw;
     }
     
     .project_name {
@@ -188,8 +191,11 @@ body {
     }
 
     .row ul {
-        margin-left: 4vw;
         margin-top: -2.5vw;
+    }
+
+    .row ul li {
+        margin-left: 4vw;
     }
     
     .project_name {
@@ -248,8 +254,11 @@ body {
     }
 
     .row ul {
-        margin-left: 2vw;
-        margin-top: -1.5vw;
+        margin-top: -2.5vw;
+    }
+
+    .row ul li {
+        margin-left: 1vw;
     }
 
     .project_name {
