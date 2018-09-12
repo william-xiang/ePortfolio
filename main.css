@@ -34,6 +34,10 @@ body {
     font-family: var(--main-font-family);
 }
 
+.row i {
+    color: chocolate;
+}
+
 .greeting {
     font-size: 2.5vw;
 }
