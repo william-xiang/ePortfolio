@@ -112,8 +112,7 @@ body {
 
 @media screen and (max-width: 768px) and (orientation: portrait) {
     .container-fluid {
-        margin-left: 1vw;
-        margin-right: 1vw;
+        width: 90%;
         margin-top: 8vw;
         color: var(--main-txt-color);
         font-family: var(--main-font-family);
@@ -170,8 +169,7 @@ body {
 
 @media screen and (max-width: 992px) and (min-width: 768px) and (orientation: portrait) {
     .container-fluid {
-        margin-left: 5vw;
-        margin-right: 5vw;
+        width: 90%;
         margin-top: 8vw;
         color: var(--main-txt-color);
         font-family: var(--main-font-family);
@@ -231,8 +229,7 @@ body {
 
 @media screen and (max-width: 992px) and (orientation: landscape) {
     .container-fluid {
-        margin-left: 6vw;
-        margin-right: 6vw;
+        width: 90%;
         margin-top: 3vw;
         color: var(--main-txt-color);
         font-family: var(--main-font-family);
