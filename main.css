@@ -118,6 +118,12 @@ body {
         font-size: 5vw;
         font-family: var(--main-font-family);
     }
+
+    .time {
+        font-size: 4vw;
+        font-family: var(--main-font-family);
+        display: inline;
+    }
     
     .project_content {
         font-size: 3.5vw;
@@ -161,6 +167,12 @@ body {
         font-size: 3.5vw;
         font-family: var(--main-font-family);
     }
+
+    .time {
+        font-size: 3vw;
+        font-family: var(--main-font-family);
+        display: inline;
+    }
     
     .project_content {
         font-size: 2vw;
@@ -202,6 +214,12 @@ body {
     .project_name {
         font-size: 3.5vw;
         font-family: var(--main-font-family);
+    }
+
+    .time {
+        font-size: 3vw;
+        font-family: var(--main-font-family);
+        display: inline;
     }
     
     .project_content {
