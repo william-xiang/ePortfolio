@@ -305,12 +305,12 @@ body {
     }
 
     .row ul {
-        margin-left: 2.5vw;
+        margin-left: 4vw;
         margin-top: -1.5vw;
     }
 
     .project_name {
-        font-size: 3vw;
+        font-size: 2.5vw;
         font-family: var(--main-font-family);
     }
     
