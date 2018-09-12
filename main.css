@@ -55,18 +55,18 @@ body {
     text-decoration: none;
 }
 
-.row ul {
+.projects .row ul {
     margin-left: 1.5vw;
     margin-top: -0.5vw;
 }
 
 .project_name {
-    font-size: 2vw;
+    font-size: 1.8vw;
     font-family: var(--main-font-family);
 }
 
 .time {
-    font-size: 1.5vw;
+    font-size: 1.3vw;
     font-family: var(--main-font-family);
     display: block;
 }
@@ -74,6 +74,22 @@ body {
 .project_content {
     font-size: 1.2vw;
 }
+
+/* css for experience.html */
+.comma {
+    display: none;
+}
+
+.employer {
+    font-size: 1.5vw;
+    font-family: var(--main-font-family);
+    display: block;
+}
+
+.experience .row ul {
+    margin-top: 0vw;
+}
+
 
 .footer {
     height: 3vw;
